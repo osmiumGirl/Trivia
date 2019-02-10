@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TriviApp</string>
+    <string name="title_activity_question_page">QuestionPage</string>
+</resources>
